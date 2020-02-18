@@ -1,0 +1,6 @@
+C:\Users\candelaria.d\source\repos\Dia2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\candelaria.d\source\repos\Dia2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\candelaria.d\source\repos\Dia2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\candelaria.d\source\repos\Dia2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\candelaria.d\source\repos\Dia2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\candelaria.d\source\repos\Dia2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
